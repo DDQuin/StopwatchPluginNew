@@ -1,0 +1,11 @@
+main: me.ddquin.StopwatchMain
+name: Stopwatch
+version: 1.0
+author: DDQuin
+softdepend:
+  - PlaceholderAPI
+commands:
+  stopwatch:
+    description: Commands to start, pause and stop the stopwatch timer.
+    aliases:
+      - st
